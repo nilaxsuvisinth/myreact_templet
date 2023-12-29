@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/myreact_templet/static/css/main.a5090757.css",
+    "main.js": "/myreact_templet/static/js/main.68772915.js",
+    "static/js/787.fffce235.chunk.js": "/myreact_templet/static/js/787.fffce235.chunk.js",
+    "static/media/counts-img.svg": "/myreact_templet/static/media/counts-img.4558949326fbbd853f2b130b81232940.svg",
+    "static/media/hero-img.png": "/myreact_templet/static/media/hero-img.53f1b5467e5095dc4126.png",
+    "index.html": "/myreact_templet/index.html",
+    "main.a5090757.css.map": "/myreact_templet/static/css/main.a5090757.css.map",
+    "main.68772915.js.map": "/myreact_templet/static/js/main.68772915.js.map",
+    "787.fffce235.chunk.js.map": "/myreact_templet/static/js/787.fffce235.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5090757.css",
+    "static/js/main.68772915.js"
+  ]
+}
